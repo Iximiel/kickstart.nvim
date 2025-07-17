@@ -84,13 +84,13 @@ git clone https://github.com/iximiel/kickstart.nvim.git --depth=1 -b mine "${XDG
 If you're using `cmd.exe`:
 
 ```
-git clone https://github.com/nvim-lua/kickstart.nvim.git "%localappdata%\nvim"
+git clone https://github.com/iximiel/kickstart.nvim.git --depth=1 -b mine "%localappdata%\nvim"
 ```
 
 If you're using `powershell.exe`
 
 ```
-git clone https://github.com/nvim-lua/kickstart.nvim.git "${env:LOCALAPPDATA}\nvim"
+git clone https://github.com/iximiel/kickstart.nvim.git --depth=1 -b mine "${env:LOCALAPPDATA}\nvim"
 ```
 
 </details>
